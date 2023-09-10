@@ -1,0 +1,4 @@
+Дата и время вызова функции 2023-09-10 14:51:55.526400
+Вызвана flat_generator с аргументами ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) и {}.
+Возвращаемое значение <generator object test_3.<locals>.flat_generator at 0x0000023DCEBBDDD0>
+
